@@ -1,0 +1,34 @@
+## Production
+
+vm01 - http://sys-gw-app1.corp.unicru.com:398/index.jsp?applicationName=admin # http://prd-atao-vm01.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm03 - http://sys-gw-app1.corp.unicru.com:402/index.jsp?applicationName=admin # http://prd-atao-vm03.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm04 - http://sys-gw-app1.corp.unicru.com:404/index.jsp?applicationName=admin # http://prd-atao-vm04.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm05 - http://sys-gw-app1.corp.unicru.com:406/index.jsp?applicationName=admin # http://prd-atao-vm05.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm09 - http://sys-gw-app1.corp.unicru.com:414/index.jsp?applicationName=admin # http://prd-atao-vm09.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm10 - http://sys-gw-app1.corp.unicru.com:416/index.jsp?applicationName=admin # http://prd-atao-vm10.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm12 - http://sys-gw-app1.corp.unicru.com:420/index.jsp?applicationName=admin # http://prd-atao-vm12.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm13 - http://sys-gw-app1.corp.unicru.com:422/index.jsp?applicationName=admin # http://prd-atao-vm13.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm14 - http://sys-gw-app1.corp.unicru.com:424/index.jsp?applicationName=admin # http://prd-atao-vm14.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+vm15 - http://sys-gw-app1.corp.unicru.com:426/index.jsp?applicationName=admin # http://prd-atao-vm15.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin
+
+
+## UAT 
+
+vm10 - http://sys-gw-app1.corp.unicru.com:386/index.jsp?locale=en_US&applicationName=admin # http://uat-atao-vm10.corp.unicru.com:8080/index.jsp?applicationName=admin&locale=en_US
+
+vm11 - http://sys-gw-app1.corp.unicru.com:388/index.jsp?locale=en_US&applicationName=admin # http://uat-atao-vm11.corp.unicru.com:8080/index.jsp?applicationName=admin&locale=en_US
+
+vm12 - http://sys-gw-app1.corp.unicru.com:390/index.jsp?locale=en_US&applicationName=admin # http://uat-atao-vm12.corp.unicru.com:8080/index.jsp?applicationName=admin&locale=en_US
+
+## Test
+
+vm01 - http://sys-gw-app1.corp.unicru.com:383/index.jsp?locale=en_US&applicationName=admin # http://test-atao-vm01.corp.unicru.com:8080/index.jsp?locale=en_US&applicationName=admin

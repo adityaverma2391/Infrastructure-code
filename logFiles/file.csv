@@ -1,0 +1,11 @@
+$ps -eo pid,user,args,%cpu,%mem --sort -rss | head  -10
+$du -h --sort -rss | head -10
+
+root@dev-jk-app01:~# df -h
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        97G   21G   77G  22% /
+
+
+NAME              RESOURCE_GROUP    LOCATION    GATEWAY_ADDR    PUBLIC_IP    PRIVATE_IP    STATUS      TIER       UNITS
+----------------  ----------------  ----------  --------------  -----------  ------------  ----------  ---------  -------
+qa-apimt-cadient  QAResourceGroup   Central US                                             Activating  Developer  1

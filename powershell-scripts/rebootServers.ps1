@@ -1,0 +1,1 @@
+Get-Content -Path C:\Users\adverma\Documents\servers.txt | Restart-Computer -Force -Wait -For PowerShell -Timeout 300 -Delay 2
